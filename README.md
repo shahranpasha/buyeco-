@@ -4,14 +4,3 @@ This project showcases my ability to work with front-end technologies, implement
 
   WEBSITE LINK 
   https://www.buyeco.com/
-
-  PAGES THAT I HAVE ADDED TO THE WEBSITE 
-
-  PRIVACY POLICY 
-  https://www.buyeco.com/privacy-policy/
-
-  SHOPPING POLICY 
-  https://www.buyeco.com/shoping-policy/
-
-  FAQS PAGE
-  https://www.buyeco.com/faqs/
